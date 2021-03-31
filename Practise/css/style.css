@@ -1,0 +1,25 @@
+body
+{
+	background: linear-gradient( to bottom, rgb( 204, 229, 225 ), rgba( 204, 229, 255, 0.4) );
+}
+
+#title 
+{
+	color: rgb( 186, 139, 9 );
+}
+
+.subtitle
+{
+	color: rgb( 200, 148, 30 );
+}
+
+#service-image
+{
+	height: 400px;
+	width: 70%;
+
+	/* background: url("../img/img-2.jpg"); */
+	background: radial-gradient( circle, red 20% , blue 40% , green 50% );
+	background-size: cover;
+	
+}
